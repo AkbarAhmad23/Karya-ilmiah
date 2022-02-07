@@ -1,10 +1,8 @@
-# Karya-ilmiah
+# Biodata angkatan penerima bantuan
 
 Repository ini bertujuan untuk mempraktekkan tutorial di materi Git Dicoding.
 --
-*Karya ilmiah ini terdiri dari beberapa babnyaitu sebagai berikut*
-- Halaman judul
-- Abstrak
-- Pendahuluan
-- Isi
-- Penutup
+*Berikut daftar angkatan yang akan menerima bantuan yaitu*
+- 2019
+- 2020
+- 2021
